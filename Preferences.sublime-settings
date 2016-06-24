@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
+	"folder_exclude_patters":
+	[
+		".svn",
+		".git",
+		".idea",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"build",
+		"static",
+		"node_modules"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true
+}
